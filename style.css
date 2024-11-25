@@ -1,0 +1,104 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    background-color: #ffffff;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom,  #5de5f7 ,#ffffff,#ffffff, #ffffff);
+}
+
+.custom-font {
+    font-family: 'Lobster', cursive;
+    font-size: 28px;
+    color: #000000;
+}
+
+.container {
+    
+    margin: 20px auto;
+    width: 80%;
+}
+
+h1 {
+    margin-bottom: 5px;
+}
+
+h2 {
+    margin: 5px 0;
+    font-weight: normal;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 2.5px solid #000000;
+    padding: 20px;
+    text-align: center;
+}
+
+th {
+    background-color: #505050;
+}
+
+td {
+    color: black;
+    font-weight: bold;
+}
+
+
+
+
+.red {
+    background-color: #f86868;
+    color: rgb(0, 0, 0);
+}
+
+.grayfull {
+    background-color: #505050;
+}
+
+.yellow {
+    background-color: #ffef61;
+}
+
+.orange {
+    background-color: #f8bb4a;
+    color: rgb(0, 0, 0);
+}
+
+.purple {
+    background-color: #d3d2d2;
+}
+
+.green {
+    background-color: #fff896;
+}
+
+.blue {
+    background-color: #92ff60;
+    color: rgb(0, 0, 0);
+}
+
+.gray {
+    background-color: #BDBDBD;
+}
+
+.legend {
+    margin-top: 20px;
+}
+
+.legend table {
+    margin: 0 auto;
+}
+
+.legend td {
+    text-align: left;
+    padding: 5px 10px;
+}
+
